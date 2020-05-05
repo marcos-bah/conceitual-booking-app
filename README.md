@@ -1,8 +1,10 @@
 # booking
 
-A new Flutter project.
+Mobile application development in flutter, conceptual model.
 
 ## Getting Started
+
+![](https://github.com/marcos-bah/conceitual-booking-app/blob/master/doc/booking.gif)
 
 This project is a starting point for a Flutter application.
 
